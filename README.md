@@ -1,2 +1,10 @@
-# CO658-Data-Structures-And-Algorithms
- Repository for the CO658 Data Structures and Algorithms module that has the IT Service Management System code.
+# C++ IT Service Management System
+
+| Author | Details |
+|:--- |:--- |
+| Name: | Arbaaz Patwari |
+| Student ID: | 22133895 |
+| Course: | Software Engineering |
+| Module: | CO658 |
+| Started: | May 2024 |
+
