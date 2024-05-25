@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Link">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAQAAAAEIAAAAAAAQQAIAAAA=</HashCode>
+      <FileName>Asset_Link.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssetList">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAACAAAAAAAAEAAQAAAAEIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Asset_Linked_List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContactsTable">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAIAAAQAAAAEIAAARAAAQAAAAAAA=</HashCode>
+      <FileName>Contact_Hash_Table_Str.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Contact">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAEAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contact_Object_Str.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TicketQueue">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAGAAABAAgAAAhIAADAAAAAAAAAAIAgAQAAAAAAA=</HashCode>
+      <FileName>IT_Ticket_Queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
